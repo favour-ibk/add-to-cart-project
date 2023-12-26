@@ -38,7 +38,7 @@ const product = [
     {
         id: 6,
         image: 'images/cloth-5.jpg',
-        title: 'Represent hoodie and sweatpants',
+        title: 'hoodie & sweatpants',
         price: 110,
     },
     {
